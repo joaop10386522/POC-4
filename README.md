@@ -1,7 +1,7 @@
 # POC-4
 Estrutura do JavaScript
 1. document.getElementById('load-users').addEventListener('click', ...): Adiciona um evento ao botão "Carregar Usuários". Quando o botão é clicado, a função assíncrona é executada.
-2. 
+   
 2.async () => { ... }: Define uma função assíncrona, permitindo o uso do await dentro dela.
 
 3.const userList = document.getElementById('user-list');: Seleciona o elemento da lista onde os usuários serão exibidos.
