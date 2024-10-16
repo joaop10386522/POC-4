@@ -1,4 +1,12 @@
 # POC-4
+
+![poc imagem 1](https://github.com/user-attachments/assets/3297d5ae-331a-4677-9b5f-d955d6dcbee0)
+
+![poc imagem 2](https://github.com/user-attachments/assets/767e0b4e-d7db-42cd-be1d-2d6b18c4f218)
+
+![poc imagem 3](https://github.com/user-attachments/assets/b16df6d1-c56d-4790-b099-795c24653909)
+
+
 Estrutura do JavaScript
 1. document.getElementById('load-users').addEventListener('click', ...): Adiciona um evento ao botão "Carregar Usuários". Quando o botão é clicado, a função assíncrona é executada.
    
